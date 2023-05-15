@@ -7,6 +7,7 @@ You can deep dive into the API through their [API Documentation](https://imgflip
 You can go to `./src/Constants.js` and input your Username Password to get everything up and running.
 
 ## Application Demo
+![](https://i.ibb.co/XSLD7S2/Meme-Maker-Screenshot.gif)
 
 ## Available Scripts
 
